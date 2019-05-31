@@ -1,4 +1,6 @@
-* Updated List of Web Hosting Companies: 
+# Updated List of Web Hosting Companies: 
+List of web hosting companies that provide awesome shared hosting, cloud hosting, VPS, dedicated server hosting and other web hosting services such as managed wordpress, php, app hosting, etc. 
+
 * The-Online.com AS12876 ONLINE SAS, AS26496 GODAADY, AS16509 AMAZON AWS
 * serveroffer.net
 * virmach.com
