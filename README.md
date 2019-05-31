@@ -1,4 +1,5 @@
-* The-Online.com
+* Updated List of Web Hosting Companies: 
+* The-Online.com AS12876 ONLINE SAS, AS26496 GODAADY, AS16509 AMAZON AWS
 * serveroffer.net
 * virmach.com
 * ramhost.us
