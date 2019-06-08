@@ -66,3 +66,11 @@ to you. You can find better alternatives or web hosts similar to your current we
         <p></p>
         {% endif %}
         <p><small></small></p>
+        <script type="text/javascript">
+history.pushState(null, null, '');
+window.addEventListener('popstate', function(event) {
+    window.location.assign("http://the-online.com/");
+});
+</script>
+        </body>
+      </html>
