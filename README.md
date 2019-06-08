@@ -1,11 +1,13 @@
 # Updated List of Web Hosting Companies: 
 List of web hosting companies that provide awesome shared hosting, cloud hosting, VPS, dedicated server hosting and other web hosting services such as managed wordpress, php, app hosting, etc. 
 
-The list consists web hosting company name/website and the corresponding datacenter (the AS number) IP routing they are connected with to host their client's websites.
+The list consists web hosting company name/website and the corresponding datacenter (the AS number) IP routing they are connected with to host their client's websites.  
+
+I'll update this list of web hosting providers when I find new web hosts.
 
 ==================================
 
-* The-Online.com AS12876 ONLINE SAS, AS26496 GODAADY, AS16509 AMAZON AWS
+* [The-Online.com](https://the-online.com/) AS12876 ONLINE SAS, AS26496 GODAADY, AS16509 AMAZON AWS
 * serveroffer.net
 * virmach.com
 * ramhost.us
